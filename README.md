@@ -1,4 +1,4 @@
-Project Description
+Project Description:
 NFC_Attiny is a project that facilitates the interface between the ATTiny13 microcontroller and an NFC module. This project is particularly focused on leveraging the NFC module's power delivery capabilities to create efficient, compact, and innovative NFC-based solutions.
 
 Features
